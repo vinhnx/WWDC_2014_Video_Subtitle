@@ -1,7 +1,8 @@
 WWDC 2014 Video Subtitle
 ========================
 
-** Update 15/06/2014 by @vinhnx: add/rename SD video SRT files **
+ * Update 15/06/2014 by [@vinhnx](https://twitter.com/@vinhnx) *
+ Add/rename SD video SRT files
 
 If you are seeking for [WWDC 2013 Video Subtitle]
 (https://github.com/qiaoxueshi/WWDC_2013_Video_Subtitle), click [here]
